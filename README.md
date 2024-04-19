@@ -1,57 +1,60 @@
 
+## Youtube
+https://www.youtube.com/watch?v=xqpAXf7tAnM
 
 # Image Editing Application
 
-This is a Python script that implements an image editing application using the Tkinter library. The application provides a graphical user interface (GUI) for performing various image editing operations.
+This is an image editing application that allows users to adjust image properties, rotate images, crop images, and save the edited images.
 
-## Features
+## Purpose and Target Market
 
-- Open and display images
-- Adjust image properties:
-  - Brightness
-  - Contrast
-  - Color balance
-  - Sharpness
-- Rotate the image
-- Crop the image
-- Reset the image to its original state
-- Save the edited image
+The purpose of this software is to provide users with a user-friendly image editing application. It is designed for individuals, photographers, graphic designers, or anyone who needs to edit and enhance images.
 
-## Requirements
+## Software Development Process
 
-- Python 3.x
-- Tkinter library
-- PIL (Python Imaging Library) library
+The software development process applied for this project is Agile. Agile methodologies, such as Scrum or Kanban, have been chosen for their flexibility, adaptability, and ability to incorporate frequent customer feedback. The Agile approach allows for iterative development, continuous improvement, and collaboration among team members.
 
-## Usage
+## Development Plan
 
-1. Clone the repository or download the "mainRun.py" file.
+- Implement advanced filters, text overlay, and batch processing for enhanced editing capabilities.
+- Introduce image effects like blurring, vignetting, and lens distortion to enhance artistic appeal.
+- Enable social media integration for easy sharing of edited images.
+- Add undo/redo functionality and advanced editing tools for more precise edits.
+- Explore collaboration features, cross-platform compatibility, and performance optimization.
+- Gather user feedback and conduct market research to inform future enhancements.
+- Prioritize bug fixes, quality assurance, continuous learning, and innovation.
+- Engage with the community to foster a sense of ownership and involvement.
 
-2. Install the required libraries using the following command:
+### Development Process
 
-   ```
-   pip install pillow
-   ```
+- Agile (Scrum or Kanban)
 
-3. Run the app using the run.bat
+### Team Members and Roles
 
+- Software Developers: Responsible for developing the application's functionality.
+- UI/UX Designers: Responsible for designing the user interface and ensuring a user-friendly experience.
+- QA/Testers: Responsible for testing and quality assurance.
 
-4. The application window will open, allowing you to perform the following actions:
-   - Click on the "Open Image" button to select an image file.
-   - Use the sliders to adjust the image properties (brightness, contrast, color balance, sharpness).
-   - Click on the "Rotate Left" or "Rotate Right" buttons to rotate the image.
-   - Click on the "Crop" button to initiate the crop operation. Adjust the sliders in the control window to select the crop area and click on "Complete" to save the cropped image.
-   - Click on the "Reset" button to revert the image to its original state.
-   - Click on the "Save Image" button to save the edited image.
+### Schedule
 
-## Contributing
+- Sprint 1: Project kickoff, planning, and initial UI/UX design (2 weeks)
+- Sprint 2: Implement basic functionality and perform unit testing (3 weeks)
+- Sprint 3: Implement advanced features, conduct integration testing, and refine UI/UX design (4 weeks)
+- Sprint 4: Enhance UI/UX, optimize performance, and conduct user acceptance testing (3 weeks)
+- Sprint 5: Final refinements, documentation, and final testing (2 weeks)
 
-Contributions are welcome! If you have any suggestions, improvements, or bug fixes, please submit a pull request.
+## Algorithm
 
-## Acknowledgments
+The specific algorithms used in the image editing application are not mentioned in the provided document. However, algorithms related to image manipulation, such as adjusting brightness, contrast, and color balance, may be employed.
 
-- This script was developed based on the Tkinter library and the PIL (Python Imaging Library).
-- Special thanks to the contributors of the Tkinter and PIL libraries for providing the tools necessary for building this application.
+## Current Status and Future Plans
 
-## Youtube
-https://www.youtube.com/watch?v=xqpAXf7tAnM
+- Further enhancements to existing features
+- Bug fixes and performance improvements
+- Addition of new features based on user feedback and market demands
+
+## Environments
+
+- Programming Language: Python
+- Minimum Hardware and Software Requirements: The minimum requirements for running the software will depend on the specific libraries, frameworks, and dependencies used. These requirements are not mentioned in the provided document.
+- Required Packages: The software may require packages such as Tkinter, PIL (Python Imaging Library), and other related packages for GUI development and image manipulation. Specific package requirements are not mentioned in the provided document.
