@@ -48,11 +48,10 @@ This is a Python script that implements an image editing application using the T
 
 Contributions are welcome! If you have any suggestions, improvements, or bug fixes, please submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Acknowledgments
 
 - This script was developed based on the Tkinter library and the PIL (Python Imaging Library).
 - Special thanks to the contributors of the Tkinter and PIL libraries for providing the tools necessary for building this application.
+
+## Youtube
+https://www.youtube.com/watch?v=xqpAXf7tAnM
