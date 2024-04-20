@@ -1,7 +1,7 @@
 
 ## Youtube
 https://www.youtube.com/watch?v=xqpAXf7tAnM
-![Project Logo](./HomePage UI.png)
+![Project Logo](./HomePage.png)
 # Image Editing Application
 
 This is an image editing application that allows users to adjust image properties, rotate images, crop images, and save the edited images.
