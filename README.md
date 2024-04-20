@@ -24,6 +24,11 @@ The software development process applied for this project is Agile. Agile method
 - Gather user feedback and conduct market research to inform future enhancements.
 - Prioritize bug fixes, quality assurance, continuous learning, and innovation.
 - Engage with the community to foster a sense of ownership and involvement.
+![Project Logo](./UML.png)
+![Project Logo](./graphical abstract.png)
+![Project Logo](./use case diagram.png)
+![Project Logo](./Overview.png)
+
 
 ### Development Process
 
